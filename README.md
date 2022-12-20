@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Frontend Developement
 # 💫 About Me:
-CSE Undergrad
+CSE Undergrad, NIT Rourkela
 
 
 ## 🌐 Socials:
