@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sprabesh122
+- 👋 Hi, I’m @sprabesh122, CSE Undergrad
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Frontend Developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sprabesh122/sprabesh122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
