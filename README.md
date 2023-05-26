@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sprabesh122
-- 👀 I’m interested in Frontend Development
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning Frontend Developement
 # 💫 About Me:
 CSE Undergrad, NIT Rourkela
