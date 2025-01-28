@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sprabesh122
-- 👀 I’m a Frontend Developer
-- 🌱 I’m currently learning Frontend Developement
+- 👀 I’m a Frontend Developer, Android Developer
+- 🌱 I’m currently learning Android Development
 # 💫 About Me:
-CSE Undergrad, NIT Rourkela
+2024 graduate working as a Android Developer
 
 
 ## 🌐 Socials:
